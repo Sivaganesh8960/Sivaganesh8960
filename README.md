@@ -1,192 +1,278 @@
-<h1 align="center">Hi 👋, I'm Kothalanka Siva Ganesh</h1>
+<h1 align="center">
+Hi 👋, I'm Kothalanka Siva Ganesh
+</h1>
 
-<h3 align="center">AI & Machine Learning Engineer | Python Developer | NLP | Computer Vision | Generative AI Enthusiast</h3>
+<h3 align="center">
+AI/ML Engineer | Python Developer | NLP & Computer Vision Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=AI+%26+Machine+Learning+Engineer;Python+Developer;NLP+%7C+Computer+Vision;Generative+AI+Enthusiast;Building+Real-World+AI+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Python+Developer;Machine+Learning+Enthusiast;NLP+%7C+Computer+Vision;Building+AI+Solutions+for+Real-World+Problems"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sivaganesh8960&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Sivaganesh8960&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-🎓 Bachelor of Engineering in Computer Science (AI & ML) from Chandigarh University (CGPA: **7.46**)
-
-💼 Former **AI Intern** at **Infosys Springboard**
-
-📄 Published IEEE Conference Paper on **Facial Emotion Detection using Neural Networks**
+🎓 Bachelor of Engineering (Computer Science) Graduate from Chandigarh University (2026)
 
 🤖 Passionate about Artificial Intelligence, Machine Learning, NLP, Computer Vision and Generative AI.
+
+💡 I enjoy building intelligent applications that solve real-world problems.
+
+💼 Former AI Intern at Infosys Springboard.
+
+📚 IEEE Conference Author.
 
 🌱 Currently learning
 
 - Large Language Models (LLMs)
-- Retrieval Augmented Generation (RAG)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
 - LangChain
-- Vector Databases
 - MLOps
-- AI Agents
-
-🚀 I enjoy building intelligent AI systems that solve real-world problems.
-
-📍 Hyderabad, Telangana, India
-
-📫 Email:
-**kothalankasivaganesh@gmail.com**
+- Generative AI
 
 ---
 
-# 🚀 Experience
+# 👨‍💻 Experience
 
-## AI Intern | Infosys Springboard
+## AI Intern — Infosys Springboard
+**October 2024 – December 2024**
 
-**Oct 2024 – Dec 2024**
-
+### Project:
 ### From Alt Text to Real Context with AI
 
-✔ Built AI models using Machine Learning and NLP to generate context-aware image descriptions.
-
-✔ Achieved nearly **90% relevance** in accessibility tagging.
-
-✔ Improved digital accessibility using intelligent image caption generation.
-
-✔ Successfully collaborated with mentors and completed project deliverables.
+- Developed AI models for intelligent image caption generation.
+- Applied Machine Learning and NLP for accessibility improvement.
+- Achieved nearly **90% relevant contextual descriptions**.
+- Improved digital accessibility for visually impaired users.
+- Successfully completed all deliverables under mentor guidance.
 
 ---
 
-# 💻 Tech Stack
+# 🎓 Education
 
-### Programming Languages
+🎓 Bachelor of Engineering (Computer Science)
 
-<p>
+**Chandigarh University**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+GPA: **7.46**
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+2022 – 2026
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+---
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+# 🏆 Certifications
 
-</p>
+✔ Microsoft Azure AI Fundamentals
 
-### AI / Machine Learning
+✔ Oracle Infrastructure for Generative AI
 
-<p>
+✔ IBM Predictive Analytics using SPSS Modeler
 
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+✔ IBM Artificial Analyst
 
-<img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+---
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+# 🛠 Tech Stack
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+## Programming Languages
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-<img src="https://img.shields.io/badge/NLP-4285F4?style=for-the-badge"/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-<img src="https://img.shields.io/badge/Computer Vision-0A66C2?style=for-the-badge"/>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Generative AI-412991?style=for-the-badge"/>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
 
-</p>
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
-### Backend
+---
 
-<p>
+## Artificial Intelligence
 
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi"/>
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/REST API-0096D6?style=for-the-badge"/>
+![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge)
 
-</p>
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-orange?style=for-the-badge)
 
-### Database
+![Generative AI](https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge)
 
-<p>
+---
 
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql"/>
+## Frameworks & Libraries
 
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite"/>
+- Flask
+- FastAPI
+- Scikit-Learn
+- TensorFlow
+- Keras
+- Sentence Transformers
+- OpenCV
+- Pandas
+- NumPy
+- Matplotlib
+- PyPDF2
+- SQLite
 
-</p>
+---
 
-### Tools
+## Tools
 
-<p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode"/>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter"/>
-
-</p>
+Git • GitHub • VS Code • Jupyter Notebook • Oracle Cloud • Azure AI
 
 ---
 
 # 🚀 Featured Projects
 
+## 🖼 From Alt Text to Real Context with AI
+
+AI-powered accessibility platform that generates meaningful image descriptions instead of simple alt text.
+
+### Highlights
+
+- Context-aware image captioning
+- Flask Backend
+- React Frontend
+- Oracle Database
+- NLP + Computer Vision
+- Text-to-Speech Support
+- Image Upload & History
+
+**Tech**
+
+Python • BLIP • Transformers • Flask • React • Oracle
+
+---
+
 ## 🤖 AI Resume Screening & Candidate Ranking System
 
-AI-powered ATS using Sentence-BERT for semantic resume-job matching, intelligent candidate ranking, NLP-based skill extraction, skill-gap analysis, and resume improvement suggestions.
+An AI-powered ATS using Sentence-BERT and NLP for semantic resume matching.
+
+### Features
+
+- Resume Parsing
+- Semantic Matching
+- Candidate Ranking
+- Skill Extraction
+- Resume Feedback
+- AI Suggestions
+- SQLite Database
+
+**Tech**
+
+Sentence-BERT • Flask • NLP • Python • SQLite
 
 ---
 
-## 🎯 AI Interview Simulator
+## 🎤 AI Interview Simulator
 
-FastAPI-based interview platform that parses resumes, generates role-specific interview questions, and evaluates answers using LLM-powered scoring.
+An intelligent interview preparation platform.
 
----
+### Features
 
-## 🖼️ From Alt Text to Real Context with AI
+- Resume Upload
+- AI Question Generation
+- Role-based Interviews
+- AI Answer Evaluation
+- Rubric-based Scoring
+- FastAPI Backend
 
-AI-powered image captioning system using NLP and Computer Vision to generate meaningful and context-aware image descriptions.
+**Tech**
 
----
-
-## 😊 Facial Emotion Detection using Neural Networks
-
-Deep Learning-based emotion recognition system capable of detecting multiple facial emotions using CNN models and image preprocessing.
-
----
-
-## 📊 Sentiment Analysis for Political Campaigns
-
-Performed sentiment analysis using Decision Tree, Logistic Regression, Naive Bayes, Linear SVC, and XGBoost with TF-IDF feature extraction.
+FastAPI • Python • JavaScript • LLM API
 
 ---
 
-## ⌨️ Faculty Typing Master Pro
+## 😀 Facial Emotion Detection using Neural Networks
 
-Interactive typing practice platform featuring analytics dashboard, performance tracking, progress charts, XP levels, and timer modes.
+IEEE Conference Published Project.
+
+### Features
+
+- Facial Emotion Recognition
+- CNN Model
+- Live Prediction
+- Emotion Classification
+- Image Preprocessing
+
+**Dataset**
+
+FER2013
+
+CK+
+
+JAFFE
+
+Self-Collected Images
 
 ---
 
-# 📜 Certifications
+## 🗳 Sentiment Analysis for Political Campaigns
 
-🏅 Microsoft Azure AI Fundamentals
+Performed sentiment analysis on Indian Election Tweets.
 
-🏅 Oracle Infrastructure for Generative AI
+### Highlights
 
-🏅 IBM Predictive Analytics using SPSS Modeler
+- TF-IDF
+- Bag of Words
+- Decision Tree
+- Logistic Regression
+- Linear SVC
+- XGBoost
 
-🏅 IBM Artificial Analyst
+Achieved
+
+**93.4% Accuracy**
 
 ---
 
-# 📖 Publication
+## 🫁 Comparative Analysis of Various SMOTE Techniques on Lung Cancer
 
-### Facial Emotion Detection Technique Using Neural Networks
+Machine Learning project for handling class imbalance.
+
+### Implemented
+
+- SMOTE
+- Borderline SMOTE
+- ADASYN
+- SMOTE ENN
+- SMOTE Tomek
+
+Improved prediction quality by balancing datasets.
+
+---
+
+## ⌨ Faculty Typing Master Pro
+
+Professional Typing Practice Platform for Educational Institutions.
+
+### Features
+
+- Multiple Difficulty Levels
+- WPM Tracking
+- Accuracy Analysis
+- XP & Rank System
+- Analytics Dashboard
+- Chart.js
+- Progress Tracking
+
+---
+
+# 📖 Research Publication
+
+## IEEE Conference Publication
+
+**Facial Emotion Detection Technique Using Neural Networks**
 
 Published in
 
@@ -194,51 +280,68 @@ Published in
 
 ---
 
+# 🌱 Currently Learning
 
-# 📈 Contribution Graph
+- Retrieval-Augmented Generation (RAG)
 
-<p align="center">
+- LangChain
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivaganesh8960&theme=tokyo-night"/>
+- LlamaIndex
 
-</p>
+- Agentic AI
 
----
+- MLOps
 
-# 🌐 Connect With Me
+- HuggingFace Transformers
 
-<p align="center">
+- Docker
 
-<a href="https://www.linkedin.com/in/kothalanka-siva-ganesh-9a9528250">
+- Kubernetes
 
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<a href="mailto:kothalankasivaganesh@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<a href="https://github.com/Sivaganesh8960">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
+- Azure AI Services
 
 ---
 
-<h3 align="center">
+# 🎯 Career Interests
 
-⭐ Thanks for visiting my profile! ⭐
+✅ Artificial Intelligence
 
-</h3>
+✅ Machine Learning
 
-<h4 align="center">
+✅ Data Science
 
-Let's build intelligent AI solutions together 🚀
+✅ NLP
 
-</h4>
+✅ Computer Vision
+
+✅ Generative AI
+
+✅ LLM Applications
+
+✅ AI Automation
+
+---
+
+# 📫 Connect With Me
+
+📧 Email
+
+**kothalankasivaganesh@gmail.com**
+
+💼 LinkedIn
+
+https://linkedin.com/in/kothalankasivaganesh
+
+💻 GitHub
+
+https://github.com/Sivaganesh8960
+
+---
+
+# 💬 Quote
+
+> *"Artificial Intelligence is not about replacing humans; it's about empowering humans to achieve more."*
+
+---
+
+⭐ If you like my projects, consider giving them a **Star**!
