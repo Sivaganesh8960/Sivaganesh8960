@@ -324,19 +324,25 @@ Published in
 
 # 📫 Connect With Me
 
-📧 Email
+<p align="center">
+  <a href="mailto:kothalankasivaganesh@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kothalanka-siva-ganesh-9a9528250/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Sivaganesh8960" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="50"/>
+  </a>
+</p>
 
-**kothalankasivaganesh@gmail.com**
-
-💼 LinkedIn
-
-https://linkedin.com/in/kothalankasivaganesh
-
-💻 GitHub
-
-https://github.com/Sivaganesh8960
-
----
+<p align="center">
+  <a href="mailto:kothalankasivaganesh@gmail.com"><strong>Email</strong></a> •
+  <a href="https://www.linkedin.com/in/kothalanka-siva-ganesh-9a9528250/"><strong>LinkedIn</strong></a> •
+  <a href="https://github.com/Sivaganesh8960"><strong>GitHub</strong></a>
+</p>
 
 # 💬 Quote
 
