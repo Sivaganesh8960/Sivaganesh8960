@@ -280,27 +280,7 @@ Published in
 
 ---
 
-# 🌱 Currently Learning
 
-- Retrieval-Augmented Generation (RAG)
-
-- LangChain
-
-- LlamaIndex
-
-- Agentic AI
-
-- MLOps
-
-- HuggingFace Transformers
-
-- Docker
-
-- Kubernetes
-
-- Azure AI Services
-
----
 
 # 🎯 Career Interests
 
