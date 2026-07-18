@@ -28,15 +28,6 @@ AI/ML Engineer | Python Developer | NLP & Computer Vision Enthusiast
 
 📚 IEEE Conference Author.
 
-🌱 Currently learning
-
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI
-- LangChain
-- MLOps
-- Generative AI
-
 ---
 
 # 👨‍💻 Experience
