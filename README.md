@@ -125,6 +125,24 @@ Git • GitHub • VS Code • Jupyter Notebook • Oracle Cloud • Azure AI
 
 # 🚀 Featured Projects
 
+## 🪪 VisionID – AI-Powered Smart Identity & Analytics Platform
+
+Comprehensive face recognition and identity management system with real-time attendance tracking, employee management, and analytics.
+
+### Features
+
+- Real-Time Face Recognition
+- Multi-Pose Employee Registration (5-pose capture)
+- Automatic Attendance Logging with Confidence Scores
+- Unknown Visitor Detection & Tracking
+- Analytics Dashboard
+- CSV & Excel Report Export
+- RESTful API with Auto-Generated Swagger Docs
+
+**Tech**
+
+FastAPI • PostgreSQL • SQLAlchemy • InsightFace • ONNX Runtime • OpenCV • Bootstrap 5
+
 ## 🖼 From Alt Text to Real Context with AI
 
 AI-powered accessibility platform that generates meaningful image descriptions instead of simple alt text.
