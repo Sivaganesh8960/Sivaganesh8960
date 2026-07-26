@@ -70,56 +70,33 @@ GPA: **7.46**
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## Programming Languages
+### Programming Languages
+Python • Java • C • C++ • SQL • JavaScript
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Artificial Intelligence
+Machine Learning • Deep Learning • NLP • Computer Vision • Generative AI • Face Recognition
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### Frameworks & Libraries
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+**Backend / APIs:** Flask • FastAPI • Uvicorn • Pydantic • Jinja2
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
+**Machine Learning / Deep Learning:** Scikit-Learn • TensorFlow • Keras • XGBoost
 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+**NLP / LLM:** Sentence Transformers • Transformers • BLIP • LLM APIs
 
----
+**Computer Vision:** OpenCV • InsightFace • ONNX Runtime
 
-## Artificial Intelligence
+**Data Handling:** Pandas • NumPy • Matplotlib • PyPDF2 • openpyxl
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+**Frontend:** React • Bootstrap 5 • Chart.js
 
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
+### Databases
+PostgreSQL • SQLite • Oracle DB • SQLAlchemy ORM • psycopg2
 
-![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge)
-
-![Computer Vision](https://img.shields.io/badge/Computer%20Vision-orange?style=for-the-badge)
-
-![Generative AI](https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge)
-
----
-
-## Frameworks & Libraries
-
-- Flask
-- FastAPI
-- Scikit-Learn
-- TensorFlow
-- Keras
-- Sentence Transformers
-- OpenCV
-- Pandas
-- NumPy
-- Matplotlib
-- PyPDF2
-- SQLite
-
----
-
-## Tools
-
-Git • GitHub • VS Code • Jupyter Notebook • Oracle Cloud • Azure AI
+### Tools
+Git • GitHub • VS Code • Jupyter Notebook • Oracle Cloud • Azure AI • Swagger / OpenAPI
 
 ---
 
