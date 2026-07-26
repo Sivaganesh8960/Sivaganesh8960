@@ -72,30 +72,63 @@ GPA: **7.46**
 
 ## 🛠 Tech Stack
 
-### Programming Languages
-Python • Java • C • C++ • SQL • JavaScript
+# 🛠 Tech Stack
 
-### Artificial Intelligence
-Machine Learning • Deep Learning • NLP • Computer Vision • Generative AI • Face Recognition
+## Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frameworks & Libraries
+---
 
-**Backend / APIs:** Flask • FastAPI • Uvicorn • Pydantic • Jinja2
+## Artificial Intelligence
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-green?style=for-the-badge)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-orange?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-purple?style=for-the-badge)
+![Face Recognition](https://img.shields.io/badge/Face%20Recognition-teal?style=for-the-badge)
 
-**Machine Learning / Deep Learning:** Scikit-Learn • TensorFlow • Keras • XGBoost
+---
 
-**NLP / LLM:** Sentence Transformers • Transformers • BLIP • LLM APIs
+## Frameworks & Libraries
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1F77B4?style=for-the-badge)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-005571?style=for-the-badge)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![InsightFace](https://img.shields.io/badge/InsightFace-8E44AD?style=for-the-badge)
+![ONNX Runtime](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![PyPDF2](https://img.shields.io/badge/PyPDF2-4B4B4B?style=for-the-badge)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Computer Vision:** OpenCV • InsightFace • ONNX Runtime
+---
 
-**Data Handling:** Pandas • NumPy • Matplotlib • PyPDF2 • openpyxl
+## Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-**Frontend:** React • Bootstrap 5 • Chart.js
+---
 
-### Databases
-PostgreSQL • SQLite • Oracle DB • SQLAlchemy ORM • psycopg2
+## Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
-### Tools
+---
+
+## Tools
 Git • GitHub • VS Code • Jupyter Notebook • Oracle Cloud • Azure AI • Swagger / OpenAPI
 
 ---
