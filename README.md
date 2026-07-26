@@ -30,6 +30,31 @@ AI/ML Engineer | Python Developer | NLP & Computer Vision Enthusiast | IEEE Publ
 
 ---
 
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Sivaganesh8960&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivaganesh8960&layout=compact&theme=tokyonight" width="48%"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivaganesh8960&theme=tokyonight" width="100%"/>
+</p>
+
+---
+
+---
+
+# 📊 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sivaganesh8960&theme=tokyo-night"/>
+</p>
+
+---
+
 # 👨‍💻 Experience
 
 ## AI Intern — Infosys Springboard
