@@ -3,7 +3,7 @@ Hi 👋, I'm Kothalanka Siva Ganesh
 </h1>
 
 <h3 align="center">
-AI/ML Engineer | Python Developer | NLP & Computer Vision Enthusiast
+AI/ML Engineer | Python Developer | NLP & Computer Vision Enthusiast | IEEE Published Author
 </h3>
 
 <p align="center">
